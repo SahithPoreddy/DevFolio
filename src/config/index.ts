@@ -81,7 +81,7 @@ export const SITE_CONTENT: SiteContent = {
 
     I bring hands-on experience in building user-friendly applications using the MERN stack (MongoDB, Express.js, React, Node.js), along with practical expertise in Endpoint Detection & Response (EDR) solutions for both Windows and Linux environments. My background allows me to bridge the gap between secure software development and innovative product design, ensuring that the applications I build are not only functional but also resilient and secure.
     `,
-    image: "SahithChandraPoreddy.JPG",
+    image: "/SahithChandraPoreddy.JPG",
   },
 };
 
