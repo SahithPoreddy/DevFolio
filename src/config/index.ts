@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Software Engineer based in Hyderabad, India. I specialize in MERN stack development.",
   lang: "en",
-  siteLogo: "/public/SahithChandraPoreddy.JPG",
+  siteLogo: "/SahithChandraPoreddy.JPG",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -16,7 +16,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "LinkedIn", href: "https://www.linkedin.com/in/sahith-chandra-poreddy-1b37b3242/" },
     { text: "Github", href: "https://github.com/SahithPoreddy" },
   ],
-  socialImage: "/public/SahithChandraPoreddy.JPG",
+  socialImage: "/SahithChandraPoreddy.JPG",
   canonicalURL: "https://github.com/SahithPoreddy",
 };
 
@@ -58,7 +58,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A flowchart-based logic builder which can be used to create chatbots.",
       linkPreview: "https://chatbot-builder-olive.vercel.app/",
       linkSource: "https://github.com/SahithPoreddy/Chatbot-builder",
-      image: "/public/Chatbot_builder.png",
+      image: "/Chatbot_builder.png",
     },
     // {
     //   name: "Shopp App",
@@ -81,7 +81,7 @@ export const SITE_CONTENT: SiteContent = {
 
     I bring hands-on experience in building user-friendly applications using the MERN stack (MongoDB, Express.js, React, Node.js), along with practical expertise in Endpoint Detection & Response (EDR) solutions for both Windows and Linux environments. My background allows me to bridge the gap between secure software development and innovative product design, ensuring that the applications I build are not only functional but also resilient and secure.
     `,
-    image: "/public/SahithChandraPoreddy.JPG",
+    image: "SahithChandraPoreddy.JPG",
   },
 };
 
